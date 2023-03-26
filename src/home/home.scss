@@ -1,0 +1,107 @@
+.slider{
+    width: 100vw;
+    height: 88vh;
+    overflow: hidden;
+    position: relative;
+    .wrapper {
+        //height: 100vh;
+        transition: .5s all linear;
+        will-change: transform;
+    }
+  
+    .arrows {
+        position: absolute;
+        top: 50%;
+        background: none;
+        height: 60px;
+        border: 0;
+        cursor: pointer;
+        transition: ease .3s all;
+        outline: none;
+  
+        &.prev {
+            left: 0;
+    
+            &:hover{
+                opacity: .7;
+                left: -10px;
+            }
+        }
+    
+        &.next {
+            right: 0;
+    
+            &:hover{
+                right: -10px;
+                opacity: .7;
+            }
+        }
+    }
+  
+    .dots-container{
+        height: auto;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        width: auto;
+        text-align: center;
+        left: 50%;
+        bottom: 9px;
+        transform: translateX(-50%);
+        z-index: 10;
+        list-style-type: none;
+  
+        li {
+            display: inline-block;
+            padding: 5px;
+    
+            &.active{
+                button {
+                    color: #7ddaa5;
+                }
+            }
+    
+            button {
+                color: rgb(0, 0, 0);
+                background-color: transparent;
+                border: none;
+        
+                &:hover{
+                    text-decoration: none;
+                    opacity: .7;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+  
+    .toggle-play{
+        background: transparent;
+        border: none;
+        height: auto;
+        position: absolute;
+        width: auto;
+        right: 5%;
+        bottom: 9px;
+        color: #3d3d3d;
+        z-index: 1000000;
+    
+        &:hover{
+            text-decoration: none;
+            opacity: .7;
+            cursor: pointer;
+        }
+    }
+  
+    .each-slide {
+        width: 100vw;
+        height: 100vh;
+        float: left;
+        // line-height: 100vh;
+        font-size: 40vh;
+        text-align: center;
+        background-size: cover;
+        background-position: center center;
+        background-color: transparent;
+    }
+}
