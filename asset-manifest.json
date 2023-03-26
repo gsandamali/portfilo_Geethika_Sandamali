@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portfilo_Geethika_Sandamali/static/css/main.51f8801f.css",
+    "main.js": "/portfilo_Geethika_Sandamali/static/js/main.a8e8fa6f.js",
+    "static/js/651.ab6c0ef7.chunk.js": "/portfilo_Geethika_Sandamali/static/js/651.ab6c0ef7.chunk.js",
+    "static/media/Movie-Database-API-with-React-JS.png": "/portfilo_Geethika_Sandamali/static/media/Movie-Database-API-with-React-JS.ac860e5b091df7e221c1.png",
+    "static/media/Tribute Page.PNG": "/portfilo_Geethika_Sandamali/static/media/Tribute Page.3e15c4b98cb7bce3b638.PNG",
+    "static/media/Personal Portfolio Webpage  I.PNG": "/portfilo_Geethika_Sandamali/static/media/Personal Portfolio Webpage  I.5c0d42ab90b3b860210e.PNG",
+    "static/media/Survey Form.PNG": "/portfilo_Geethika_Sandamali/static/media/Survey Form.dabebb6d2974f93b5807.PNG",
+    "static/media/HTML Documentation.PNG": "/portfilo_Geethika_Sandamali/static/media/HTML Documentation.4a416b4b489c7b1c8e00.PNG",
+    "static/media/Markdown Previewer.PNG": "/portfilo_Geethika_Sandamali/static/media/Markdown Previewer.d25c359da76b466619e8.PNG",
+    "static/media/me.png": "/portfilo_Geethika_Sandamali/static/media/me.e7f394f6162f7ffd6b22.png",
+    "static/media/Inventory Management API.PNG": "/portfilo_Geethika_Sandamali/static/media/Inventory Management API.97d4c53881472e081108.PNG",
+    "static/media/email.png": "/portfilo_Geethika_Sandamali/static/media/email.107ecafe53f87af7675c.png",
+    "static/media/User-registration-and-login.PNG": "/portfilo_Geethika_Sandamali/static/media/User-registration-and-login.1d54615f767d2a6c8077.PNG",
+    "static/media/Random Quote Generator.PNG": "/portfilo_Geethika_Sandamali/static/media/Random Quote Generator.d977be34c0d9dc826221.PNG",
+    "static/media/Mern CRUD.PNG": "/portfilo_Geethika_Sandamali/static/media/Mern CRUD.140c075fac7b07a127d1.PNG",
+    "static/media/wave.png": "/portfilo_Geethika_Sandamali/static/media/wave.9d2cced21c92421f81a1.png",
+    "static/media/Drum Machine.PNG": "/portfilo_Geethika_Sandamali/static/media/Drum Machine.858dab3d56ae96f3b515.PNG",
+    "static/media/medium.png": "/portfilo_Geethika_Sandamali/static/media/medium.2fa0d1d7cc6b9c106c92.png",
+    "static/media/logo.svg": "/portfilo_Geethika_Sandamali/static/media/logo.f234f5f9c5d57a8d1d1460508ed080b3.svg",
+    "index.html": "/portfilo_Geethika_Sandamali/index.html",
+    "main.51f8801f.css.map": "/portfilo_Geethika_Sandamali/static/css/main.51f8801f.css.map",
+    "main.a8e8fa6f.js.map": "/portfilo_Geethika_Sandamali/static/js/main.a8e8fa6f.js.map",
+    "651.ab6c0ef7.chunk.js.map": "/portfilo_Geethika_Sandamali/static/js/651.ab6c0ef7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51f8801f.css",
+    "static/js/main.a8e8fa6f.js"
+  ]
+}
